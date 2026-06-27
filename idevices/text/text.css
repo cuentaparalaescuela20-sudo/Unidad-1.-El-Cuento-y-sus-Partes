@@ -1,0 +1,9 @@
+/* Text iDevice Styles */
+.exe-text-template {
+  padding: 10px 0;
+}
+
+.exe-text-template p {
+  margin: 10px 0;
+  line-height: 1.6;
+}
